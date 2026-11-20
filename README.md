@@ -58,8 +58,6 @@
   <a href="https://t.me/aidin_Khalili" target="_blank" title="Telegram">
     <img width="56" height="56" src="https://img.icons8.com/fluency/96/telegram-app.png" alt="Telegram"/>
   </a>
-  &nbsp;&nbsp;
-  <!-- WHATSAPP-LINK -->
 </p>
 
 <p align="center">
