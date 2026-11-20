@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/Aidin-Khalili">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=900&height=80&lines=Hi%2C+I'm+Aidin+Khalili+%F0%9F%91%8B;M.Sc.+Graduate+in+Artificial+Intelligence+%26+Robotics;Amirkabir+University+of+Technology+(Tehran+Polytechnic);Graph+Neural+Networks+%C2%B7+KANs+%C2%B7+Medical+Imaging;Prospective+Ph.D.+Student+in+Machine+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=C62828&center=true&vCenter=true&width=900&height=80&lines=Hello%2C+I+am+Aidin+Khalili.;M.Sc.+in+Artificial+Intelligence+%26+Robotics;Amirkabir+University+of+Technology+(Tehran+Polytechnic)" alt="Typing SVG" />
 </a>
 
 </div>
