@@ -13,7 +13,7 @@
 ### About me
 
 - 🎓 **M.Sc. in Artificial Intelligence & Robotics**, Amirkabir University of Technology (Tehran Polytechnic) — thesis on **Graph Kolmogorov-Arnold Networks** for fMRI-based diagnosis of ADHD and Autism (grade 19.5/20)
-- 🎓 **B.Sc. in Computer Engineering**, Sadjad University of Technology — ranked 1st in the department
+- 🎓 **B.Sc. in Computer Engineering**, Sadjad University of Technology — ranked 1st among 130+ students
 - 🔬 Research interests: **Graph Neural Networks, Kolmogorov-Arnold Networks, medical image analysis, computer vision, NLP**
 - 👨‍🏫 Head TA for Big Data Analysis and TA for Digital Image Processing at Amirkabir University
 - 📖 Currently: writing the GKAN paper and co-authoring a textbook on complex network analysis
