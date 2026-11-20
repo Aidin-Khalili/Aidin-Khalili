@@ -6,6 +6,10 @@
 
 </div>
 
+<p align="center">
+  <a href="https://aidin-khalili.github.io"><img src="https://img.shields.io/badge/Personal%20Website-aidin--khalili.github.io-C62828?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal website"/></a>
+</p>
+
 ### About me
 
 - 🎓 **M.Sc. in Artificial Intelligence & Robotics**, Amirkabir University of Technology (Tehran Polytechnic) — thesis on **Graph Kolmogorov-Arnold Networks** for fMRI-based diagnosis of ADHD and Autism (grade 19.5/20)
