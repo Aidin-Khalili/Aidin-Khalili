@@ -48,6 +48,21 @@
 - [Neural Networks from Scratch](https://github.com/Aidin-Khalili/Neural-Networks-from-Scratch) · [Data Mining](https://github.com/Aidin-Khalili/Data-Mining-Course-Projects) · [MATLAB Image Processing](https://github.com/Aidin-Khalili/MATLAB-Image-Processing-Assignments)
 - [C++ Projects](https://github.com/Aidin-Khalili/CPP-Projects) · [Quera Challenges](https://github.com/Aidin-Khalili/Quera-Programming-Challenges) · [Operating Systems Lab](https://github.com/Aidin-Khalili/Operating-Systems-Lab) · [Microprocessor Labs](https://github.com/Aidin-Khalili/Microprocessor-ARM-Labs)
 
-### 📫 Contact
+### 📫 Contact me
 
-<!-- CONTACT-LINKS -->
+<p align="center">
+  <a href="mailto:aidin.khalili01@gmail.com" target="_blank" title="Email">
+    <img width="56" height="56" src="https://img.icons8.com/fluency/96/gmail-new.png" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/aidin_Khalili" target="_blank" title="Telegram">
+    <img width="56" height="56" src="https://img.icons8.com/fluency/96/telegram-app.png" alt="Telegram"/>
+  </a>
+  &nbsp;&nbsp;
+  <!-- WHATSAPP-LINK -->
+</p>
+
+<p align="center">
+  <a href="mailto:aidin.khalili01@gmail.com"><img src="https://img.shields.io/badge/Email-aidin.khalili01%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://t.me/aidin_Khalili"><img src="https://img.shields.io/badge/Telegram-%40aidin__Khalili-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+</p>
