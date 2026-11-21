@@ -61,7 +61,7 @@
     <img width="56" height="56" src="https://img.icons8.com/fluency/96/gmail-new.png" alt="Email"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/aidin-khalili" target="_blank" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/aidin-khalili-26199b285" target="_blank" title="LinkedIn">
     <img width="56" height="56" src="https://img.icons8.com/fluency/96/linkedin.png" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
@@ -72,6 +72,6 @@
 
 <p align="center">
   <a href="mailto:aidin.khalili01@gmail.com"><img src="https://img.shields.io/badge/Email-aidin.khalili01%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/aidin-khalili"><img src="https://img.shields.io/badge/LinkedIn-aidin--khalili-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/aidin-khalili-26199b285"><img src="https://img.shields.io/badge/LinkedIn-Aidin%20Khalili-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://t.me/aidin_Khalili"><img src="https://img.shields.io/badge/Telegram-%40aidin__Khalili-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 </p>
