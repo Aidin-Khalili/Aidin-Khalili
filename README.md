@@ -4,6 +4,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=C62828&center=true&vCenter=true&width=900&height=80&lines=Hello%2C+I+am+Aidin+Khalili.;M.Sc.+in+Artificial+Intelligence+%26+Robotics;Amirkabir+University+of+Technology+(Tehran+Polytechnic)" alt="Typing SVG" />
 </a>
 
+<img src="https://komarev.com/ghpvc/?username=Aidin-Khalili&label=Profile%20views&color=c62828&style=flat" alt="Profile views" />
+
 </div>
 
 <p align="center">
